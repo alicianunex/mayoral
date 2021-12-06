@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Uno",
+    "price": "30",
+    "image": "/img/uno.JPG",
+    "info": "más colores",
+    "quantity": "1"
+  },
+  {
+    "id": "2",
+    "name": "Dos",
+    "price": "25",
+    "image": "/img/dos.JPG",
+    "info": "más colores",
+    "quantity": "1"
+  },
+  {
+    "id": "3",
+    "name": "Tres",
+    "price": "49",
+    "image": "/img/tres.JPG",
+    "info": "más colores",
+    "quantity": "1"
+  },
+  {
+    "id": "4",
+    "name": "Cuatro",
+    "price": "69",
+    "image": "/img/cuatro.JPG",
+    "info": "más colores",
+    "quantity": "1"
+  },
+  {
+    "id": "5",
+    "name": "Cinco",
+    "price": "49",
+    "image": "/img/cinco.JPG",
+    "info": "más colores",
+    "quantity": "1"
+  },
+  {
+    "id": "6",
+    "name": "Seis",
+    "price": "59",
+    "image": "/img/seis.JPG",
+    "info": "más colores",
+    "quantity": "1"
+  },
+  {
+    "id": "7",
+    "name": "Siete",
+    "price": "49",
+    "image": "/img/siete.JPG",
+    "info": "más colores",
+    "quantity": "1"
+  },
+  {
+    "id": "8",
+    "name": "Ocho",
+    "price": "35",
+    "image": "ocho.JPG",
+    "info": "más colores",
+    "quantity": "1"
+  },
+  {
+    "id": "9",
+    "name": "Nueve",
+    "price": "39",
+    "image": "/nueve.JPG",
+    "info": "más colores",
+    "quantity": "1"
+  },
+  {
+    "id": "10",
+    "name": "Diez",
+    "price": "29",
+    "image": "/img/diez.JPG",
+    "info": "más colores",
+    "quantity": "1"
+  }
+]
