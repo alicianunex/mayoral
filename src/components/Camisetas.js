@@ -78,6 +78,7 @@ class Camisetas extends React.Component {
                       <strong></strong> {p.info}
                     </p>
                   </div>
+                  <button className="add">añadir</button>
                 </div>
               </div>
             );
