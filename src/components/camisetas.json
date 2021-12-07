@@ -3,7 +3,7 @@
     "id": "1",
     "name": "Uno",
     "price": "30",
-    "image": "/img/uno.JPG",
+    "image": "uno.JPG",
     "info": "más colores",
     "quantity": "1"
   },
@@ -11,7 +11,7 @@
     "id": "2",
     "name": "Dos",
     "price": "25",
-    "image": "/img/dos.JPG",
+    "image": "dos.JPG",
     "info": "más colores",
     "quantity": "1"
   },
@@ -19,7 +19,7 @@
     "id": "3",
     "name": "Tres",
     "price": "49",
-    "image": "/img/tres.JPG",
+    "image": "tres.JPG",
     "info": "más colores",
     "quantity": "1"
   },
@@ -27,7 +27,7 @@
     "id": "4",
     "name": "Cuatro",
     "price": "69",
-    "image": "/img/cuatro.JPG",
+    "image": "cuatro.JPG",
     "info": "más colores",
     "quantity": "1"
   },
@@ -35,7 +35,7 @@
     "id": "5",
     "name": "Cinco",
     "price": "49",
-    "image": "/img/cinco.JPG",
+    "image": "cinco.JPG",
     "info": "más colores",
     "quantity": "1"
   },
@@ -43,7 +43,7 @@
     "id": "6",
     "name": "Seis",
     "price": "59",
-    "image": "/img/seis.JPG",
+    "image": "seis.JPG",
     "info": "más colores",
     "quantity": "1"
   },
@@ -51,7 +51,7 @@
     "id": "7",
     "name": "Siete",
     "price": "49",
-    "image": "/img/siete.JPG",
+    "image": "siete.JPG",
     "info": "más colores",
     "quantity": "1"
   },
@@ -67,7 +67,7 @@
     "id": "9",
     "name": "Nueve",
     "price": "39",
-    "image": "/nueve.JPG",
+    "image": "nueve.JPG",
     "info": "más colores",
     "quantity": "1"
   },
@@ -75,7 +75,7 @@
     "id": "10",
     "name": "Diez",
     "price": "29",
-    "image": "/img/diez.JPG",
+    "image": "diez.JPG",
     "info": "más colores",
     "quantity": "1"
   }

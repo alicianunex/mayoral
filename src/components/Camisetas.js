@@ -41,7 +41,7 @@ class Camisetas extends React.Component {
 
     return (
       <div className="container cont">
-        <div className="row">
+        <div className="row-title">
           <div className="col-md-12">
             <h1 className="title">Mayoral sample</h1>
 
@@ -63,7 +63,7 @@ class Camisetas extends React.Component {
                 <div className="card mb-3">
                   <img
                     className="card-img-top"
-                    src={`${process.env.PUBLIC_URL}/img/${p.img}`}
+                    src={`${process.env.PUBLIC_URL}/img/${p.image}`}
                     alt={p.name}
                   />
 
